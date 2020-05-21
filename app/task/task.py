@@ -3,9 +3,9 @@
 
 # **********************************************************
 # * Author        : SnailAC
-# * Create time   : 2020-05-21 13:19:28
-# * Last modified : 2020-05-21 13:23:30
-# * Filename      : stastics.py
+# * Create time   : 2020-05-21 13:43:58
+# * Last modified : 2020-05-21 13:43:58
+# * Filename      : task.py
 # * Description   :
 # **********************************************************
 
@@ -16,11 +16,12 @@ from PyQt5.QtWidgets import (
 from app.constant import CONFIG_DICT
 
 
-class Stastics(QFrame):
+class Task(QFrame):
     def __init__(self, parent=None):
-        super(Stastics, self).__init__()
+        super(Task, self).__init__()
         self.parent = parent
-        print('Stastics', CONFIG_DICT)
+
+        print('Task', CONFIG_DICT)
 
         self.initUI()
 
@@ -32,6 +33,6 @@ if __name__ == '__main__':
     import sys
     from PyQt5.QtWidgets import QApplication
     app = QApplication(sys.argv)
-    win = Stastics()
+    win = Task()
     win.show()
     sys.exit(app.exec_())
