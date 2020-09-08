@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*-
 
 # **********************************************************
-# * Author        : SnailAC
+# * Author        : SnailCL
 # * Create time   : 2020-05-21 13:49:21
 # * Last modified : 2020-05-21 15:02:03
 # * Filename      : public.py

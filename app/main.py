@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*-
 
 # **********************************************************
-# * Author        : SnailAC
+# * Author        : SnailCL
 # * Create time   : 2020-05-21 13:13:47
 # * Last modified : 2020-05-21 14:55:06
 # * Filename      : main.py

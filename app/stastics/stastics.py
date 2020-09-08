@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*-
 
 # **********************************************************
-# * Author        : SnailAC
+# * Author        : SnailCL
 # * Create time   : 2020-05-21 13:19:28
 # * Last modified : 2020-05-21 13:23:30
 # * Filename      : stastics.py

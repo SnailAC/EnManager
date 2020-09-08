@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*-
 
 # **********************************************************
-# * Author        : SnailAC
+# * Author        : SnailCL
 # * Create time   : 2020-05-21 13:43:58
 # * Last modified : 2020-05-21 13:43:58
 # * Filename      : task.py
